@@ -1,7 +1,7 @@
-이력서
+자기소개 
 ======
 
-소개
+간단한 소개
 -----
 <img src="https://github.com/castle6116/Resume/blob/main/img/myPicture.JPG?raw=true" width="40%" height="40%" alt="myPicture"></img>
 
