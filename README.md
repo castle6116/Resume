@@ -10,7 +10,7 @@
 + email : castle3805@gmail.com , osc2143@gmail.com
 + github : github.com/castle6116
 
-+ 2021.7.5 ~ (주)이지스에서 현장 실습 iOS 어플 관련 업무 진행
++ 2021.7.5 ~ (주)이지스 iOS 어플(웹뷰) , 웹 유지보수 업무 진행
 
 
 회사 경력
