@@ -3,7 +3,7 @@
 
 간단한 소개
 -----
-<img src="https://github.com/castle6116/Resume/blob/main/img/myPicture.JPG?raw=true" width="40%" height="40%" alt="myPicture"></img>
+<img src="https://github.com/castle6116/Resume/blob/main/img/myFace.jpg?raw=true" width="40%" height="40%" alt="myPicture"></img>
 
 + 이름 : 김진우
 + 취미 : 게임 , 카페 가기 , 바닷가 보러가기 , 드라이브
