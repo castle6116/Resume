@@ -44,7 +44,9 @@
 
 ### 아이들나라 퀴즈백과
 #### 퀴즈백과 [퀴즈백과](https://apps.apple.com/us/app/%EC%95%84%EC%9D%B4%EB%93%A4%EB%82%98%EB%9D%BC/id1521425764)
+
 <img src="https://user-images.githubusercontent.com/46862400/230868176-5078594a-bfa2-40b3-80dd-7232c6924eca.mp4">
+
 + 파인원커뮤니케이션즈에서 작업한 프로젝트
 + 지면, 메인화면, 퀴즈 다시보기를 개발 진행
 + 기술 스택 : Moya, MVVM, MVC, RxSwift, SnapKit
