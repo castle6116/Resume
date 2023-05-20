@@ -58,6 +58,12 @@
 ### Finkick
 
 #### 핀킥 [Finkick](https://github.com/castle6116/Finkick)
+
+로그인 화면
+<video src="https://user-images.githubusercontent.com/46862400/151134436-211bb305-7d25-44ff-a27b-f84e9b56ed50.mp4"></video>
+   
+메인 화면
+<video src="https://user-images.githubusercontent.com/46862400/151134457-b5276666-bc27-4b39-b841-5f82b6b6729d.mp4"></video>
 + 캡스톤디자인으로 시작된 프로젝트
 + API서버 / 웹 / 안드로이드 / iOS 로 파트를 나눠 개발 진행
 + iOS를 담당 하였음
@@ -72,6 +78,8 @@
 ### 코로나19도우미
 
 #### 코로나19도우미 [COVID-19_HELPER](https://github.com/castle6116/COVID-19_HELPER)
+앱 설명
+<video src="https://user-images.githubusercontent.com/46862400/151135430-6dfd9f55-9c1e-4a03-8fe0-c49d48c4dd47.mp4"></video>
 + 캡스톤디자인으로 시작된 프로젝트
 + API서버 / 웹 / 안드로이드 / iOS 로 파트를 나눠 개발 진행
 + iOS를 담당 하였음
