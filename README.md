@@ -11,8 +11,8 @@
 
 + 2022.03.21 ~ ing (주)파인원커뮤니케이션즈 / iOS 어플 개발자 / 전임
 
-새로운 도전을 즐기는 iOS 주니어 개발자인 김진우입니다.
-팀워크를 중요시하여 코드리뷰와 개발 노하우 공유에 항상 적극적이며, 주어진 문제는 포기하지 않고 끝까지 해결합니다.
+새로운 도전을 즐기는 iOS 주니어 개발자인 김진우입니다.  
+팀워크를 중요시하여 코드리뷰와 개발 노하우 공유에 항상 적극적이며, 주어진 문제는 포기하지 않고 끝까지 해결합니다.  
 저의 주요기술은 디자인 패턴인 MVVM, SnapKit을 활용한 UI 작성, RxSwift를 활용한 비동기 코드 작성입니다.
 
 회사 경력
@@ -44,7 +44,8 @@
 ### 아이들나라 퀴즈백과
 #### 퀴즈백과 [퀴즈백과](https://apps.apple.com/us/app/%EC%95%84%EC%9D%B4%EB%93%A4%EB%82%98%EB%9D%BC/id1521425764)
 
-<img src="https://user-images.githubusercontent.com/46862400/230868176-5078594a-bfa2-40b3-80dd-7232c6924eca.mp4">
+##### 시연 영상
+https://user-images.githubusercontent.com/46862400/230868176-5078594a-bfa2-40b3-80dd-7232c6924eca.mp4
 
 + 파인원커뮤니케이션즈에서 작업한 프로젝트
 + 지면, 메인화면, 퀴즈 다시보기를 개발 진행
@@ -59,11 +60,12 @@
 
 #### 핀킥 [Finkick](https://github.com/castle6116/Finkick)
 
-로그인 화면
-<video src="https://user-images.githubusercontent.com/46862400/151134436-211bb305-7d25-44ff-a27b-f84e9b56ed50.mp4"></video>
+##### 로그인 화면
+https://user-images.githubusercontent.com/46862400/151134436-211bb305-7d25-44ff-a27b-f84e9b56ed50.mp4
    
-메인 화면
-<video src="https://user-images.githubusercontent.com/46862400/151134457-b5276666-bc27-4b39-b841-5f82b6b6729d.mp4"></video>
+##### 메인 화면
+https://user-images.githubusercontent.com/46862400/151134457-b5276666-bc27-4b39-b841-5f82b6b6729d.mp4
+
 + 캡스톤디자인으로 시작된 프로젝트
 + API서버 / 웹 / 안드로이드 / iOS 로 파트를 나눠 개발 진행
 + iOS를 담당 하였음
@@ -78,8 +80,10 @@
 ### 코로나19도우미
 
 #### 코로나19도우미 [COVID-19_HELPER](https://github.com/castle6116/COVID-19_HELPER)
-앱 설명
-<video src="https://user-images.githubusercontent.com/46862400/151135430-6dfd9f55-9c1e-4a03-8fe0-c49d48c4dd47.mp4"></video>
+
+##### 앱 설명
+https://user-images.githubusercontent.com/46862400/151135430-6dfd9f55-9c1e-4a03-8fe0-c49d48c4dd47.mp4
+
 + 캡스톤디자인으로 시작된 프로젝트
 + API서버 / 웹 / 안드로이드 / iOS 로 파트를 나눠 개발 진행
 + iOS를 담당 하였음
